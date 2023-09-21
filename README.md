@@ -1,8 +1,11 @@
 # website
 <head>
-  <title> Why Tomorrow X Together are Fourth Gen Leaders (better than stray kids) </title>
+<title> DOGS R COOL </title>
 <style>
-  <body {bakcground:blue;}
+h1 {color:brown;}
+h2 {color:blue;}
+h3 {color:green;}
+body {background:orange;}
 </style>
 </head>
 <body>
