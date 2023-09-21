@@ -2,7 +2,7 @@
 <head>
   <title>Tomorrow X Together FANPAGE!!!!!</title>
 <style>
-  
+  <background {color:blue;}
 </style>
 </head>
 <body>
