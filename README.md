@@ -1,8 +1,8 @@
 # website
 <head>
-  <title>Tomorrow X Together FANPAGE!!!!!</title>
+  <title> Tomorrow X Together FANPAGE!!!!! </title>
 <style>
-  <background {color:blue;}
+  <body {bakcground:blue;}
 </style>
 </head>
 <body>
