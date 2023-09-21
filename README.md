@@ -1,6 +1,6 @@
 # website
 <head>
-  <title> Tomorrow X Together FANPAGE!!!!! </title>
+  <title> Why Tomorrow X Together are Fourth Gen Leaders (better than stray kids) </title>
 <style>
   <body {bakcground:blue;}
 </style>
