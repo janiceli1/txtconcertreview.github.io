@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Why Tomorrow X Together are Fourth Gen Leaders (better than Stray Kids)</title>
+  <title>Why Tomorrow X Together are Fourth Gen Leaders (better than Stray Kids)</title>
 <style>
 body {background:blue;}
 </style>
