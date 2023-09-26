@@ -3,7 +3,7 @@
 <head>
   <title>Why Tomorrow X Together are Fourth Gen Leaders (better than Stray Kids)</title>
 <style>
-body {background:blue;}
+  body {background:blue;}
 </style>
 </head>
 <body>
