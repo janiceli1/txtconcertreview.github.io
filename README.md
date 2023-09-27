@@ -22,15 +22,15 @@
 <li>Dear Sputnik</li>
 <li>Sugar Rush Ride</li>
 <li>Happy Fools</li>
-<li>Drama</li>
 <li>Opening Sequence</li>
+<li>Drama</li>
 <li>Devil by the Window</li>
 <li>Cat & Dog (English ver.)</li>
 <li>Anti-Romantic</li>
 <li>Can’t We Just Leave The Monster Alive?</li>
-<li>No Rules</li>
-<li>0X1=LOVESONG (I Know I Love You)</li>
 <li>9 and Three Quarters (Run Away)</li>
+<li>0X1=LOVESONG (I Know I Love You)</li>
+<li>No Rules</li>
 <li>Can’t You See Me?</li>
 <li>LO$ER=LO♡ER</li>
 <li>Eternally</li>
