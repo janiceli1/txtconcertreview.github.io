@@ -40,6 +40,7 @@
 <li>Farewell, Neverland</li>
 <li>Blue Spring</li>
 <li>Our Summer</li>
+<a><img src="blue hour.jpg"></a>
   
   <h2>Performance Review</h2>
 <p>I think that TXT did such a great job that night. Even though they didn't have any backup dancers, they were able to carry the stage by themselves. Throughout the night, their singing and dancing stayed consistent despite the concert being over 3 hours long. The use of confetti and fireworks added an extra boost of joy to the performances. </p>
