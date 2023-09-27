@@ -44,7 +44,7 @@
   <h2>Performance Review</h2>
 <p>I think that TXT did such a great job that night. Throughout the night, their singing and dancing stayed consistent despite the concert being over 3 hours long. The use of confetti and fireworks added an extra boost of energy to the performances. </p>
     <linebreak></linebreak>
-    <img src="coolfireworks.jpg" width="500" height="300"/>
+    <img src="coolfireworks.JPG" width="300" height="500"/>
 <h2>Favorite Performances</h2>
 <p> My favorite performance of the night was "Farewell Neverland". It was also the performance that I was most excited to see. It's my favorite song from their new album, and it's one of if not my favorite b-side from their whole discography. The performance started with them singing the opening verse on a ship prop before dispersing across the main stage. Then, they walked down the stage to the extended stage before dancing to the melody of the song. The whole time I was watching this I was in awe. I watched this performance so many times online, and it was crazy for me to finally see it in person. I tried extra hard to make sure that my camera was steady, and I made sure to not sing along and just absorb the performance. </p>
 <img src="neverland.jpg" width="200" height="350"/>
