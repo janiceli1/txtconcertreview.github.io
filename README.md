@@ -49,7 +49,7 @@
 <p> My favorite performance of the night was "Farewell Neverland". It was also the performance that I was most excited to see. It's my favorite song from their new album, and it's one of if not my favorite b-side from their whole discography. The performance started with them singing the opening verse on a ship prop before dispersing across the main stage. Then, they walked down the stage to the extended stage before dancing to the melody of the song. The whole time I was watching this I was in awe. I watched this performance so many times online, and it was crazy for me to finally see it in person. I tried extra hard to make sure that my camera was steady, and I made sure to not sing along and just absorb the performance. </p>
 <img src="neverland.jpg" width="200" height="350"/>
 <h2>Venue+Seat Review</h2>
-<p>BMO Stadium is a venue that holds up to 22,000 people. You do have to pay for the parking, so I was just dropped off with my friend. There are a good amount of food options at the venue. The stage is also pretty big, with really big screens. I sat in section B3, row 9, seat 5. This was the second section from the stage in the middle of the floor. In front of me there were about 6/7 seats rows in the first section closest to the stage, a gap between the two sections, then the start of my section. Initially, I was scared my seat would be too far away, and people would be too tall for me to see. However, my seat ended up being more than what I expected and they were really close when they came to the extended stage. However, I was also wearing really tall shoes that let me tower over the people in front of me, but that was at the cost of my feet burning and being really sore. When they were on the main stage it was harder to see them, but the screens were large enough to let you see the stage. </p>
+<p>BMO Stadium is a venue that holds up to 22,000 people. There are a good amount of food options at the venue. The stage is also pretty big, with really big screens. I sat in section B3, row 9, seat 5 which was the second section from the stage in the middle of the floor. There were about 6/7 seats rows in the first section closest to the stage, a gap between the two sections, then the start of my section. Initially, I was scared my seat would be too far away, and people would be too tall for me to see. However, my seat ended up being more than what I expected and they were really close when they came to the extended stage. When they were on the main stage it was harder to see them, but the screens were large enough to let you see the stage. </p>
 <img src="bluehour.jpg" width = "500" height="300"/>
     <p>(view of extended stage)</p>
 <img src="drama.jpg" width="500" height="300"/>
@@ -57,7 +57,7 @@
 <h2>Final Review</h2>
 <p>ACT: SWEET MIRAGE Day 1 in LA was the best concert I've ever attended. I rate it a ∞/10.</p>
 <linebreak></linebreak>
-<p>TXT will be coming back with their new album <em>The Name Chapter: Freefalling</em> on October 13th, so make sure to give it a listen!</p>
+<p>TXT will be coming back with their new album <em>The Name Chapter: Freefalling</em> on October 13th!!</p>
 <linebreak></linebreak>
 Click this link to give them a listen on Spotify! <a href="https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB?si=hkWnZg78SROe6b9zW5N7fA">Listen Now</a>
 </body>
