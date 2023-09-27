@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <h1>ACT: SWEET MIRAGE Review</h1>
