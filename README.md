@@ -11,33 +11,33 @@
   <h2>Setlist Review</h2>
 <p>The setlist started with Blue Hour (Dance Break ver.). I was really excited because the year before at ACT: LOVESICK, they performed Blue Hour, but they didn't perform the Dance Break Version. I feel like the ACT: LOVESICK setlist was better than this setlist, but that one was hard to beat. I still loved the setlist this year. </p>
   <linebreak></linebreak>
-<p>Setlist Ranking</p>
+<h4>Setlist Ranking</h4>
+<p>This ranking is based off of how memorable the performance was!</p>
   <linebreak></linebreak>
   <ol>
 <li>Farewell, Neverland</li>
-<li>0X1=LOVESONG (I Know I Love You)</li>
+<li>Our Summer</li>
 <li>Blue Spring</li>
 <li>Blue Hour</li>
+<li>Dear Sputnik</li>
+<li>Sugar Rush Ride</li>
+<li>Happy Fools</li>
 <li>Drama</li>
+<li>Opening Sequence</li>
+<li>Devil by the Window</li>
+<li>Cat & Dog (English ver.)</li>
+<li>Anti-Romantic</li>
+<li>Can’t We Just Leave The Monster Alive?</li>
 <li>No Rules</li>
 <li>0X1=LOVESONG (I Know I Love You)</li>
 <li>9 and Three Quarters (Run Away)</li>
-<li>We Lost The Summer</li>
-<li>Cat & Dog (English ver.)</li>
 <li>Can’t You See Me?</li>
 <li>LO$ER=LO♡ER</li>
-<li>Dear Sputnik</li>
-<li>Opening Sequence</li>
-<li>Anti-Romantic</li>
 <li>Eternally</li>
 <li>Good Boy Gone Bad</li>
 <li>Tinnitus</li>
-<li>Devil by the Window</li>
-<li>Happy Fools</li>
-<li>Sugar Rush Ride</li>
-<li>Our Summer</li>
+<li>We Lost The Summer</li>
 <li>Magic</li>
-<li>Can’t We Just Leave The Monster Alive?</li>
 <li>Angel or Devil</li>
 <li>Ice Cream</li>
     <linbreak></linbreak>
