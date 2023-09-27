@@ -51,7 +51,9 @@
 <h2>Venue+Seat Review</h2>
 <p>BMO Stadium is a venue that holds up to 22,000 people. You do have to pay for the parking, so I was just dropped off with my friend. There are a good amount of food options at the venue. The stage is also pretty big, with really big screens. I sat in section B3, row 9, seat 5. This was the second section from the stage in the middle of the floor. In front of me there were about 6/7 seats rows in the first section closest to the stage, a gap between the two sections, then the start of my section. Initially, I was scared my seat would be too far away, and people would be too tall for me to see. However, my seat ended up being more than what I expected and they were really close when they came to the extended stage. However, I was also wearing really tall shoes that let me tower over the people in front of me, but that was at the cost of my feet burning and being really sore. When they were on the main stage it was harder to see them, but the screens were large enough to let you see the stage. </p>
 <img src="bluehour.jpg" width = "500" height="300"/>
-    <p>(photo taken without zoom)</p>
+    <p>(view of extended stage)</p>
+<img src="drama.jpg" width="500" height="300"/>
+    <p>(view of main stage)</p>
 <h2>Final Review</h2>
 <p>ACT: SWEET MIRAGE Day 1 in LA was the best concert I've ever attended. I rate it a ∞/10.</p>
 <linebreak></linebreak>
