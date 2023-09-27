@@ -3,7 +3,7 @@
 <head>
   <h1>ACT: SWEET MIRAGE Review</h1>
 <style>
-  body {background:blue;}
+  body {background:#B3D0F8;}
 </style>
 </head>
 <body>
