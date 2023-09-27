@@ -12,34 +12,35 @@
   <h2>Setlist Review</h2>
 <p>The setlist started with Blue Hour (Dance Break ver.). I was really excited because the year before at ACT: LOVESICK, they performed Blue Hour, but they didn't perform the Dance Break Version. I feel like the ACT: LOVESICK setlist was better than this setlist, but that one was hard to beat. I still loved the setlist this year. </p>
   <linebreak></linebreak>
-<p>Setlist</p>
+<p>Setlist Ranking</p>
   <linebreak></linebreak>
   <ol>
+<li>Farewell, Neverland</li>
+<li>0X1=LOVESONG (I Know I Love You)</li>
+<li>Blue Spring</li>
 <li>Blue Hour</li>
-<li>Can’t We Just Leave The Monster Alive?</li>
 <li>Drama</li>
 <li>No Rules</li>
-<li>Cat & Dog (English ver.)</li>
+<li>0X1=LOVESONG (I Know I Love You)</li>
 <li>9 and Three Quarters (Run Away)</li>
 <li>We Lost The Summer</li>
+<li>Cat & Dog (English ver.)</li>
 <li>Can’t You See Me?</li>
-<li>0X1=LOVESONG (I Know I Love You)</li>
 <li>LO$ER=LO♡ER</li>
 <li>Dear Sputnik</li>
-<li>Magic</li>
 <li>Opening Sequence</li>
 <li>Anti-Romantic</li>
 <li>Eternally</li>
 <li>Good Boy Gone Bad</li>
 <li>Tinnitus</li>
 <li>Devil by the Window</li>
-<li>Angel or Devil</li>
-<li>Ice Cream</li>
 <li>Happy Fools</li>
 <li>Sugar Rush Ride</li>
-<li>Farewell, Neverland</li>
-<li>Blue Spring</li>
 <li>Our Summer</li>
+<li>Magic</li>
+<li>Can’t We Just Leave The Monster Alive?</li>
+<li>Angel or Devil</li>
+<li>Ice Cream</li>
     <linbreak></linbreak>
   <h2>Performance Review</h2>
 <p>I think that TXT did such a great job that night. Throughout the night, their singing and dancing stayed consistent despite the concert being over 3 hours long. The use of confetti and fireworks added an extra boost of energy to the performances. </p>
