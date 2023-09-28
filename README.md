@@ -35,10 +35,10 @@
 <li>Eternally</li>
 <li>Good Boy Gone Bad</li>
 <li>Tinnitus</li>
-<li>We Lost The Summer</li>
 <li>Magic</li>
 <li>Angel or Devil</li>
 <li>Ice Cream</li>
+<li>We Lost The Summer</li>
     <linbreak></linbreak>
   <h2>Performance Review</h2>
 <p>I think that TXT did such a great job that night. Throughout the night, their singing and dancing stayed consistent despite the concert being over 3 hours long. I loved seeing the confetti and fireworks in the sky. </p>
