@@ -58,6 +58,6 @@
 <linebreak></linebreak>
 <p>TXT will be coming back with their new album <em>The Name Chapter: Freefalling</em> on October 13th!!</p>
 <linebreak></linebreak>
-Click this link to give them a listen on Spotify! <a href="https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB?si=hkWnZg78SROe6b9zW5N7fA">Listen Now</a>
+Click this link to give them a listen on Spotify! <a href="https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB?si=hkWnZg78SROe6b9zW5N7fA" target="_blank">Listen Now</a>
 </body>
 </html>
